@@ -1,14 +1,16 @@
-# Family Recipes
+# Tiffany-isms
 
-This repository is a collection of food recipes.
+This repository is a collection of Tiffany's sayings. Compiled with :100: love.
 
 
 ## Author
-* Sarah Sullivan
+* Tiffany Testo, as told to Sarah Sullivan
 
 
-###More Info
-Check out [How Sweet Eats](http://www.howsweeteats.com/) 
+###Sayings
+Yellow
+
+Get out of town!
 
 # H1
 ## H2
