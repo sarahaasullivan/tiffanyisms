@@ -4,7 +4,7 @@ This repository is a collection of Tiffany's sayings. Compiled with :100: love.
 
 
 ## Author
-* Tiffany Testo, as told to Sarah Sullivan
+* Tiffany Testo, as heard by Sarah Sullivan
 
 
 ###Sayings
@@ -22,5 +22,4 @@ Crimeny!
 
 Shore, shore.
 
-
-
+KEWL
